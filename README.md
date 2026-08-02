@@ -1,6 +1,6 @@
 # 📊 Matplotlib Summary
 
-A concise reference for *Matplotlib*, one of the most popular Python libraries for data visualization. This repository serves as a quick revision guide covering the most commonly used plotting techniques, customization options, and visualization concepts.
+A concise reference for Matplotlib*, one of the most popular Python libraries for data visualization. This repository serves as a quick revision guide covering the most commonly used plotting techniques, customization options, and visualization concepts.
 
 ## 📚 Topics Covered
 
