@@ -62,4 +62,4 @@ After completing these notes, you will be able to:
 
 ## 📖 Reference
 
-This repository is based on the **TutorialsPoint Matplotlib Tutorial** and is intended for educational and quick revision purposes. :contentRefe
+This repository is based on the **TutorialsPoint Matplotlib Tutorial** and is intended for educational and quick revision purposes. :content
